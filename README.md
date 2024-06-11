@@ -1,8 +1,11 @@
-## Teacher gone Programmer
+## Game Development | Web Development | Data Analysis
 
 
-**teacherMaik/teacherMaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My adventure in programming began with Google Sheets creating complex evaluation systems for my university classes.
+Since then I have been continuously learning and develoop my programming skills with different languages and tools.
 
+I have 5 years experience working with html, css and javascript focused on front-end web development.
+I have 5 years experience working with Google Apps Script developing 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
