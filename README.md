@@ -1,4 +1,4 @@
-## Game Development | Web Development | Data Analysis
+## Game Design | Fullstack Development | Data Analysis
 
 
 My adventure in programming began with Google Sheets creating complex evaluation systems for my university classes.
@@ -16,8 +16,8 @@ Since then I have been continuously learning and developing my programming skill
 | hello world |
 
 
-🔭 I’m currently working on [vindrogames.com](https://www.vindrogames.com/) <br />
-🌱 I’m currently learning python and machine learning for Data Analysis
-💬 Ask me about games, game development and gamification
-😄 Pronouns: he/him
-⚡ Fun fact: I juggle and am a magician
+🔭 I’m currently working on [vindrogames.com](https://www.vindrogames.com/)<br />
+🌱 I’m currently learning python and machine learning for Data Analysis<br />
+💬 Ask me about games, game development and gamification<br />
+😄 Pronouns: he/him<br />
+⚡ Fun fact: I juggle and am a magician<br />
