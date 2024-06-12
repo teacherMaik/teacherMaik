@@ -17,7 +17,7 @@ Since then I have been continuously learning and developing my programming skill
 | More than the languages themselves I focus more on fundamentals and concepts of programming |
 
 
-🔭 I’m currently working on [vindrogames.com](https://www.vindrogames.com/)<br />
+🔭 I’m currently working on [vindrogames.com](https://www.vindrogames.com/) and [ludotecaenlanube.com](https://ludotecaenlanube.com/)<br />
 🌱 I’m currently learning python and machine learning for Data Analysis<br />
 💬 Ask me about games, game development and gamification<br />
 😄 Pronouns: he/him<br />
