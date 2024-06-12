@@ -13,7 +13,7 @@ Since then I have been continuously learning and developing my programming skill
 
 | **Timelin of Programs & Languages I havee learned and use** |
 |----|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GSheets.svg/2048px-GSheets.svg.png" alt="git" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>  |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GSheets.svg/2048px-GSheets.svg.png" alt="Google Sheets" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>  |
 
 
 🔭 I’m currently working on [vindrogames.com](https://www.vindrogames.com/)<br />
