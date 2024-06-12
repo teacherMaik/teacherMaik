@@ -5,11 +5,15 @@ My adventure in programming began with Google Sheets creating complex evaluation
 Since then I have been continuously learning and developing my programming skills with different languages and tools.
 
 - 7 years experience working with html, css and javascript focused on front-end web development.
-- 5 years experience working with Google Apps Script developing autommated comunication and organization systems for institutions using Google Workspace
-- 3 years experience working with data sets, Google Looker Studio
+- 5 years experience working with Google Apps Script developing autommated comunication and organization systems for institutions using Google Workspace.
+- 3 years experience working with data sets and Google Looker Studio.
+- Google Workspace Administrator
 - 2 years experience working as a fullstack engineer for small businesses.
-- Former 42 students at campus in Madrid, Spain
+- Former 42 student at campus in Madrid, Spain
 
+| **Programs & Languages I use** |
+|----|
+| hello world |
 
 
 🔭 I’m currently working on [vindrogames.com](https://www.vindrogames.com/) <br />
