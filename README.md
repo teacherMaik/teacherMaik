@@ -9,6 +9,7 @@ Since then I have been continuously learning and developing my programming skill
 - 3 years experience working with datasets and Google Looker Studio.
 - Google Workspace Administrator.
 - 2 years experience working as a fullstack developer for small businesses in Madrid.
+- 2 years experience with UX/UI design and Accesibility.
 - Former 42 student at Madrid campus, Spain.
 
 | **Timeline of Programs & Languages I have learned and use** |
