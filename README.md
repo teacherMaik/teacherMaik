@@ -63,10 +63,10 @@ My programming journey began in Google Sheets, building complex evaluation and a
 ⚡ Fun fact: **I juggle and practice magic**<br>
 😄 Pronouns: **he/him**<br>
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack Timeline
 
 <div align="center">
-  
+  <div align="justify"></div>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git" />
 
 <img src="https://skillicons.dev/icons?i=python,googlecloud,azure,c,figma,bash" />
