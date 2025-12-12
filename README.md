@@ -66,64 +66,22 @@ My programming journey began in Google Sheets, building complex evaluation and a
 ## 🧰 Tech Stack Timeline
 
 <div align="center">
-
-<!-- GOOGLE SHEETS -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- GOOGLE APPS SCRIPT -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/512px-Google_Apps_Script.svg.png"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- HTML -->
-<img src="https://skillicons.dev/icons?i=html"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- CSS -->
-<img src="https://skillicons.dev/icons?i=css"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- JS -->
-<img src="https://skillicons.dev/icons?i=js"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- C -->
-<img src="https://skillicons.dev/icons?i=c"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- GIT -->
-<img src="https://skillicons.dev/icons?i=git"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- NODE JS -->
-<img src="https://skillicons.dev/icons?i=nodejs"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- REACT -->
-<img src="https://skillicons.dev/icons?i=react"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- LOOKER STUDIO -->
-<img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- PYTHON -->
-<img src="https://skillicons.dev/icons?i=python"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- GOOGLE CLOUD -->
-<img src="https://skillicons.dev/icons?i=googlecloud"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- AZURE -->
-<img src="https://skillicons.dev/icons?i=azure"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
-<!-- POWER BI -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/512px-Google_Apps_Script.svg.png" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=html" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=css" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=js" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=c" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=git" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=nodejs" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=react" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=python" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=googlecloud" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://skillicons.dev/icons?i=azure" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 </div>
+
 
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git" />
 
