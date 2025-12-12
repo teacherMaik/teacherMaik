@@ -66,7 +66,7 @@ My programming journey began in Google Sheets, building complex evaluation and a
 ## 🧰 Tech Stack Timeline
 
 <div align="center">
-  <div align="justify"><p>2017</p><p>2025</p></div>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git" />
 
 <img src="https://skillicons.dev/icons?i=python,googlecloud,azure,c,figma,bash" />
@@ -79,7 +79,7 @@ My programming journey began in Google Sheets, building complex evaluation and a
 
 | **Technologies I’ve learned and use** |
 |----|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GSheets.svg/2048px-GSheets.svg.png" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/768px-Google_Apps_Script.svg.png" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GSheets.svg/2048px-GSheets.svg.png" width="40"/> -> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/768px-Google_Apps_Script.svg.png" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40"/> |
 | *I value fundamentals and core programming principles over any specific tool.* |
 
 <!--# 📊 GitHub Analytics
