@@ -66,7 +66,7 @@ My programming journey began in Google Sheets, building complex evaluation and a
 ## 🧰 Tech Stack Timeline
 
 <div align="center">
-  <div align="justify"></div>
+  <div align="justify"><p>2017</p><p>2025</p></div>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git" />
 
 <img src="https://skillicons.dev/icons?i=python,googlecloud,azure,c,figma,bash" />
