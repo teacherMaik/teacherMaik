@@ -59,13 +59,9 @@ My programming journey began in Google Sheets, building complex evaluation and a
 ## ✨ What I’m Up To  
 
 🎓 Currently finishing a Masters Degree in Data Analysis & AI at EBIS Business School
-
 🌱 Learning **Python** & **Machine Learning** for Data Analysis
-
 ⚙️ Software Development and Data Engineer via Google Workspace Add-on for small business
-
-🔭 Freelance web development at **[vindrogames.com](https://www.vindrogames.com/)** and **[ludotecaenlanube.com](https://ludotecaenlanube.com/)**  
-
+🔭 Freelance web development at **[vindrogames.com](https://www.vindrogames.com/)** and **[ludotecaenlanube.com](https://ludotecaenlanube.com/)**
 ⚡ Fun fact: **I juggle and practice magic**
 
 😄 Pronouns: **he/him**
@@ -74,9 +70,9 @@ My programming journey began in Google Sheets, building complex evaluation and a
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git,googlecloud" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git" />
 
-<img src="https://skillicons.dev/icons?i=python,c,figma,bash" />
+<img src="https://skillicons.dev/icons?i=python,googlecloud,azurecloud,c,figma,bash" />
 
 </div>
 
