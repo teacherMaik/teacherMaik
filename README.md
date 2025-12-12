@@ -66,10 +66,11 @@ My programming journey began in Google Sheets, building complex evaluation and a
 ## 🧰 Tech Stack Timeline
 
 <div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GSheets.svg/2048px-GSheets.svg.png" width="40"/> -> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git" />
+<!-- <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git" />
 
-<img src="https://skillicons.dev/icons?i=python,googlecloud,azure,c,figma,bash" />
+<img src="https://skillicons.dev/icons?i=python,googlecloud,azure,c,figma,bash" /> -->
 
 </div>
 
