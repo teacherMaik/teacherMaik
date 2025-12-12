@@ -1,4 +1,4 @@
-## Game Design | Fullstack Development | Data Analysis | Life long leaner
+## Data Analysis | Fullstack Development | Game Design | Life long learner
 
 
 My adventure in programming began with Google Sheets creating complex evaluation systems for my university classes.
