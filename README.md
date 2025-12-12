@@ -66,50 +66,64 @@ My programming journey began in Google Sheets, building complex evaluation and a
 ## 🧰 Tech Stack Timeline
 
 <div align="center">
-<div align="center">
 
-<!-- Google Sheets -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" width="45" />
+<!-- GOOGLE SHEETS -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- Google Apps Script -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/512px-Google_Apps_Script.svg.png" width="45" />
+<!-- GOOGLE APPS SCRIPT -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/512px-Google_Apps_Script.svg.png"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- HTML & CSS -->
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
+<!-- HTML -->
+<img src="https://skillicons.dev/icons?i=html"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- JavaScript -->
-<img src="https://skillicons.dev/icons?i=js" />
+<!-- CSS -->
+<img src="https://skillicons.dev/icons?i=css"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
+
+<!-- JS -->
+<img src="https://skillicons.dev/icons?i=js"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
 <!-- C -->
-<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=c"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- Git -->
-<img src="https://skillicons.dev/icons?i=git" />
+<!-- GIT -->
+<img src="https://skillicons.dev/icons?i=git"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- Node.js -->
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<!-- NODE JS -->
+<img src="https://skillicons.dev/icons?i=nodejs"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- React -->
-<img src="https://skillicons.dev/icons?i=react" />
+<!-- REACT -->
+<img src="https://skillicons.dev/icons?i=react"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- Looker Studio -->
-<img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" width="45" />
+<!-- LOOKER STUDIO -->
+<img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- Python -->
-<img src="https://skillicons.dev/icons?i=python" />
+<!-- PYTHON -->
+<img src="https://skillicons.dev/icons?i=python"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- Google Cloud -->
-<img src="https://skillicons.dev/icons?i=googlecloud" />
+<!-- GOOGLE CLOUD -->
+<img src="https://skillicons.dev/icons?i=googlecloud"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- Azure -->
-<img src="https://skillicons.dev/icons?i=azure" />
+<!-- AZURE -->
+<img src="https://skillicons.dev/icons?i=azure"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
-<!-- Power BI -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" />
+<!-- POWER BI -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" />
 
 </div>
-
 
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git" />
 
