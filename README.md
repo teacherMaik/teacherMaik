@@ -1,4 +1,4 @@
-## Data Analysis | Fullstack Development | Game Design | Life long learner
+<!-- ## Data Analysis | Fullstack Development | Game Design | Life long learner
 
 
 My adventure in programming began with Google Sheets creating complex evaluation systems for my university classes.
@@ -23,3 +23,117 @@ Since then I have been continuously learning and developing my programming skill
 💬 Ask me about games, game development and gamification<br />
 😄 Pronouns: he/him<br />
 ⚡ Fun fact: I juggle and am a magician<br />
+
+-->
+
+<!-- Banner or title -->
+<h1 align="center">Hi, I'm Maik 👋</h1>
+<h3 align="center">Data Analyst • Full-Stack Developer • Game Designer • Lifelong Learner</h3>
+
+---
+
+## 🚀 About Me
+
+My programming journey began in Google Sheets, building complex evaluation and automation systems for university classes. Since then, I’ve continued expanding my skills across multiple languages, frameworks, and tools—always driven by curiosity and the desire to build meaningful, usable systems.
+
+---
+
+## 🛠️ Experience & Skills (most recent first)
+
+- **Full-Stack Developer — 2+ years**  
+  Developing custom web solutions for small businesses in Madrid.
+
+- **UX/UI Design & Accessibility — 2+ years**  
+  Designing intuitive, accessible, user-centered digital experiences.
+
+- **Data Analysis & Visualization — 3+ years**  
+  Working with datasets, visualizations, and Looker Studio dashboards.
+
+- **Google Apps Script — 5+ years**  
+  Automation, integrations, and workflow systems for Google Workspace institutions.
+
+- **Front-end Development (HTML, CSS, JavaScript) — 7+ years**
+
+- **Google Workspace Administrator**
+
+- **Former 42 Madrid student**
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git,googlecloud" />
+
+<img src="https://skillicons.dev/icons?i=python,c,figma,bash" />
+
+</div>
+
+---
+
+## 📚 Tools, Languages & Technologies
+
+| **Technologies I’ve learned and use** |
+|----|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GSheets.svg/2048px-GSheets.svg.png" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/768px-Google_Apps_Script.svg.png" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40"/> |
+| *I value fundamentals and core programming principles over any specific tool.* |
+
+---
+
+## ✨ What I’m Up To  
+
+🔭 Currently working on **[vindrogames.com](https://www.vindrogames.com/)** and **[ludotecaenlanube.com](https://ludotecaenlanube.com/)**  
+🌱 Learning **Python** & **Machine Learning** for Data Analysis  
+💬 Ask me about **games, game dev, and gamification**  
+😄 Pronouns: **he/him**  
+⚡ Fun fact: **I juggle and practice magic**
+
+---
+
+# 📊 GitHub Analytics
+
+### ⭐ GitHub Stats  
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teacherMaik&show_icons=true&theme=transparent)
+
+</div>
+
+### 🔥 GitHub Streak  
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=teacherMaik&theme=transparent)
+
+</div>
+
+### 📘 Most Used Languages  
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teacherMaik&layout=compact&theme=transparent)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=teacherMaik&theme=algolia&no-frame=true&no-bg=true&margin-w=15)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake (dark & light mode)
+
+<div align="center">
+
+![Snake animation](https://github.com/teacherMaik/teacherMaik/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<p align="center">Thanks for stopping by! 👋</p>
