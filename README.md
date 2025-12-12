@@ -129,8 +129,6 @@ style="background:white;border-radius:10px;padding:6px;width:48px;height:48px;" 
 
 <img src="https://skillicons.dev/icons?i=python,googlecloud,azure,c,figma,bash" /> -->
 
-</div>
-
 ---
 
 ## 📚 Tools, Languages & Technologies
