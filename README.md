@@ -66,7 +66,50 @@ My programming journey began in Google Sheets, building complex evaluation and a
 ## 🧰 Tech Stack Timeline
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/GSheets.svg/2048px-GSheets.svg.png" width="40"/> -> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
+<div align="center">
+
+<!-- Google Sheets -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" width="45" />
+
+<!-- Google Apps Script -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/512px-Google_Apps_Script.svg.png" width="45" />
+
+<!-- HTML & CSS -->
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+
+<!-- JavaScript -->
+<img src="https://skillicons.dev/icons?i=js" />
+
+<!-- C -->
+<img src="https://skillicons.dev/icons?i=c" />
+
+<!-- Git -->
+<img src="https://skillicons.dev/icons?i=git" />
+
+<!-- Node.js -->
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
+<!-- React -->
+<img src="https://skillicons.dev/icons?i=react" />
+
+<!-- Looker Studio -->
+<img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" width="45" />
+
+<!-- Python -->
+<img src="https://skillicons.dev/icons?i=python" />
+
+<!-- Google Cloud -->
+<img src="https://skillicons.dev/icons?i=googlecloud" />
+
+<!-- Azure -->
+<img src="https://skillicons.dev/icons?i=azure" />
+
+<!-- Power BI -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" />
+
+</div>
+
 
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,bootstrap,git" />
 
