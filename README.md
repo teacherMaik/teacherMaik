@@ -34,31 +34,36 @@ Since then I have been continuously learning and developing my programming skill
 
 ## 🚀 About Me
 
-My programming journey began in Google Sheets, building complex evaluation and automation systems for university classes. Since then, I’ve continued expanding my skills across multiple languages, frameworks, and tools—always driven by curiosity and the desire to build meaningful, usable systems.
+My programming journey began in Google Sheets, building complex evaluation and automation systems for university classes. Since then, I’ve continued expanding my skills across multiple languages, frameworks, and toolsalways driven by curiosity and the desire to build meaningful, usable systems.
 
 ---
 
 ## 🛠️ Experience & Skills (most recent first)
 
+- **Data Analysis & AI — 2+ years**  
+  Working with datasets, visualizations with both Looker Studio and Power BI dashboards.
+  
 - **Full-Stack Developer — 2+ years**  
   Developing custom web solutions for small businesses in Madrid.
 
-- **UX/UI Design & Accessibility — 2+ years**  
+- **UX/UI Design & Accessibility — 4+ years**  
   Designing intuitive, accessible, user-centered digital experiences.
-
-- **Data Analysis & Visualization — 3+ years**  
-  Working with datasets, visualizations, and Looker Studio dashboards.
 
 - **Google Apps Script — 5+ years**  
   Automation, integrations, and workflow systems for Google Workspace institutions.
 
-- **Front-end Development (HTML, CSS, JavaScript) — 7+ years**
-
-- **Google Workspace Administrator**
-
 - **Former 42 Madrid student**
 
 ---
+
+## ✨ What I’m Up To  
+
+🎓 Currently finishing a Masters Degree in Data Analysis & AI at EBIS Business School
+🌱 Learning **Python** & **Machine Learning** for Data Analysis
+⚙️ Software Development and Data Engineer via Google Workspace Add-on for small business
+🔭 Freelance web development at **[vindrogames.com](https://www.vindrogames.com/)** and **[ludotecaenlanube.com](https://ludotecaenlanube.com/)**   
+⚡ Fun fact: **I juggle and practice magic**
+😄 Pronouns: **he/him**
 
 ## 🧰 Tech Stack
 
@@ -80,14 +85,6 @@ My programming journey began in Google Sheets, building complex evaluation and a
 | *I value fundamentals and core programming principles over any specific tool.* |
 
 ---
-
-## ✨ What I’m Up To  
-
-🔭 Currently working on **[vindrogames.com](https://www.vindrogames.com/)** and **[ludotecaenlanube.com](https://ludotecaenlanube.com/)**  
-🌱 Learning **Python** & **Machine Learning** for Data Analysis  
-💬 Ask me about **games, game dev, and gamification**  
-😄 Pronouns: **he/him**  
-⚡ Fun fact: **I juggle and practice magic**
 
 ---
 
